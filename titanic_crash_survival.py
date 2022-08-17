@@ -202,5 +202,5 @@ Support Vector Machine = 68.43291995490416 %
 
 Random Forest Classifier = 80.59701492537313 %
 
-Thus, Decision Tree Classifier has heighest accuracy.
+Thus, Decision Tree Classifier has highest accuracy.
 """
